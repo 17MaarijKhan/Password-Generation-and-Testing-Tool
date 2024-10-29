@@ -1,5 +1,4 @@
--------------------------------------------------------- Using the Tool --------------------------------------------------------------
-
+-------------------------------------------------------- Using the Tool ------------------------------------------------------------
 Password Generation:
   * Select a Complexity Level from the dropdown (Simple, Medium, or Complex).
   * Enter the desired Password Length (must be between 8 and 16 characters).
