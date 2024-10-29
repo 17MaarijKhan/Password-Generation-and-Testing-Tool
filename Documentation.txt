@@ -1,4 +1,4 @@
--------------------------------------------------------- Using the Tool ------------------------------------------------------------
+-------------------------------------------------------- Using the Tool ----------------------------------------------------------
 Password Generation:
   * Select a Complexity Level from the dropdown (Simple, Medium, or Complex).
   * Enter the desired Password Length (must be between 8 and 16 characters).
@@ -13,6 +13,9 @@ Password Testing:
 Clear Button:
   * Click Clear to reset all fields and start fresh.
   * That’s it! You’re all set to generate and test strong passwords.
+
+
+
 
 
 
